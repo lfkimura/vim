@@ -12,3 +12,10 @@ set shiftwidth=2
 
 set backspace=2
 set hlsearch
+set fileencoding=iso-8859-1
+
+set encoding=iso-8859-1
+
+set expandtab
+
+set softtabstop=2
